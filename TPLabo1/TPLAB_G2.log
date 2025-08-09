@@ -1,0 +1,15 @@
+LTspice 24.1.8 for Windows
+Circuit: D:\6Ano\TeoriaDeCircuitos2\TrabajosDeLaboratorio\TPLabo1\TPLAB_G2.net
+Start Time: Mon Jun  2 10:06:41 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.092 seconds.
+
+Files loaded:
+D:\6Ano\TeoriaDeCircuitos2\TrabajosDeLaboratorio\TPLabo1\TPLAB_G2.net
+C:\Users\Usuario\AppData\Local\LTspice\lib\sub\opamp.sub
+
